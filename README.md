@@ -8,7 +8,7 @@ You need to have React-Native to run this app.
 
 ```bash
 git clone git@github.com:ilter/RickMortyWiki.git
-yarn add
+yarn
 cd ios/
 pod install
 react-native run-ios || react-native run-android
